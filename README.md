@@ -8,7 +8,6 @@
 
 Hello, I'm Divyam, a developer with a deep appreciation for the versatility and open-source ethos of Linux and other operating systems. Currently, my focus lies in full-stack MERN development, where I combine the artistry of HTML/CSS, the logic of C++, and the dynamism of JavaScript.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mayvid0&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
