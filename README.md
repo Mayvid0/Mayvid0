@@ -13,14 +13,15 @@ Hello, I'm Divyam, a developer with a deep appreciation for the versatility and 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayvid0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mayvid0&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayvid0&theme=tokyonight" width="50%"/>
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,c,cpp,sass,linux,nodejs,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,javascript,bootstrap,tailwind,c,cpp,golang,vim,neovim,linux,nodejs,express,react,mongo,mysql&theme=dark)](https://skillicons.dev)
 
-## What I'm Working On
 
-- 🚀 Building full-stack applications with ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark) and ![Express.js](https://skillicons.dev/icons?i=express&theme=dark).
-- 📘 Exploring the world of ![React](https://skillicons.dev/icons?i=react&theme=dark) and the power of ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) for creating seamless web experiences.
 
 ## How to Reach Me
 
