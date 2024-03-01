@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello, I'm Divyam, a developer with a deep appreciation for the versatility and open-source ethos of Linux and other operating systems. Currently, my focus lies in full-stack MERN development, where I combine the artistry of HTML/CSS, the logic of C++, and the dynamism of JavaScript.
+Hello, I'm Divyam, a developer with a deep appreciation for the versatility and open-source ethos of Linux and other operating systems. Currently, my focus lies in full-stack development, where I combine the logic of C++, and the dynamism of JavaScript.
 
 
 
@@ -24,5 +24,5 @@ Hello, I'm Divyam, a developer with a deep appreciation for the versatility and 
 
 ## How to Reach Me
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/divyam-link)  
-💬 Ping me on [Telegram](https://t.me/dhdeuiywn)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yehlelink)  
+💬 Ping me on [Telegram](https://t.me/joLakeman)
