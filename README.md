@@ -21,7 +21,7 @@ Hello, I'm Divyam, a developer with a deep appreciation for the versatility and 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,typescript,javascript,bootstrap,tailwind,c,cpp,golang,vim,neovim,linux,nodejs,express,react,mongo,mysql&theme=dark)](https://skillicons.dev)
 
-
+[![wakatime](https://wakatime.com/badge/user/018de64b-fdf7-45be-ad6f-3e8e8ecfd47a.svg)](https://wakatime.com/@018de64b-fdf7-45be-ad6f-3e8e8ecfd47a)
 
 ## How to Reach Me
 
