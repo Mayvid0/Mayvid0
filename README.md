@@ -16,8 +16,7 @@ Hello, I'm Divyam, a developer with a deep appreciation for the versatility and 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mayvid0&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayvid0&theme=tokyonight" width="50%"/>
-## My Skills
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,typescript,javascript,bootstrap,tailwind,c,cpp,golang,vim,neovim,linux,nodejs,express,react,mongo,mysql&theme=dark)](https://skillicons.dev)
 
