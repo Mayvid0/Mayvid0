@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello, I'm Divyam, a developer with a deep appreciation for the versatility and open-source ethos of Linux and other operating systems. Currently, my focus lies in full-stack development, where I combine the logic of C++, and the dynamism of JavaScript.
+Hello, I'm Divyam, a developer with a deep appreciation for the versatility and open-source ethos of Linux and other operating systems. With a proficiency in full-stack development and C/C++ , I'm currently transitioning to Golang. 
 
 
 
